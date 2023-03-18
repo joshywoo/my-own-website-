@@ -1,0 +1,21 @@
+h1 {
+    color :cornflowerblue
+}
+h3 {
+    color:blue
+}
+
+.header {
+    display:flex;
+    justify-content:space-evenly;
+    background-color:burlywood;
+}
+.intro {
+    text-align:center;
+    background-color:blanchedalmond
+}
+.games{
+    display:flex;
+    justify-content:space-evenly;
+    background-color :bisque
+}
